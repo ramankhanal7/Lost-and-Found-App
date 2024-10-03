@@ -37,7 +37,7 @@ The backend provides a set of RESTful APIs to handle:
    - Build and run the app on your iOS simulator or a physical device.
 
 2. **Backend (Flask API):**
-   - Navigate to the `backend` folder and run the Flask server by executing:
+   - Navigate to the `Backend` folder and run the Flask server by executing:
      ```bash
      python app.py
      ```
@@ -52,3 +52,6 @@ The backend provides a set of RESTful APIs to handle:
 ## Demo
 https://www.youtube.com/watch?v=DcUpOmtydV8
 
+## Contrabutions
+- Frontend: Raman Khanal
+- Backend: David Valarezo & Nathnael Tefsaw
