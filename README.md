@@ -55,3 +55,4 @@ https://www.youtube.com/watch?v=DcUpOmtydV8
 ## Contrabutions
 - Frontend: Raman Khanal
 - Backend: David Valarezo & Nathnael Tefsaw
+- Design: Susan Xu
