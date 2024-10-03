@@ -50,5 +50,5 @@ The backend provides a set of RESTful APIs to handle:
 - **User Messaging:** Add a direct messaging feature for users to communicate privately regarding posts.
 
 ## Demo
-<iframe width="987" height="555" src="https://www.youtube.com/embed/DcUpOmtydV8" title="LostAndFoundAppDemoVideo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=DcUpOmtydV8
 
