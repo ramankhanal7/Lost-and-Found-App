@@ -1,6 +1,6 @@
 # Lost and Found App
 
-This project is an iOS application designed to help users report and retrieve lost and found items within their community. Built using Swift and SwiftUI, the app allows users to create posts for items they have lost or found, view and search for posts, and interact with other users by commenting on posts.
+This project is an iOS application designed to help users report and retrieve lost and found items within the Cornell community. Built using Swift and SwiftUI, the app allows users to create posts for items they have lost or found, view and search for posts, and interact with other users by commenting on posts.
 
 ## Features
 
